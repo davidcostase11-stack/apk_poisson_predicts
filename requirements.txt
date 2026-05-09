@@ -1,6 +1,8 @@
 streamlit
+requests
 pandas
 numpy
-requests
-lxml
+scipy
 openpyxl
+lxml
+html5lib
